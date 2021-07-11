@@ -5,8 +5,8 @@ Movie ticket booking using React Native
 3. Install Node module —> npm install 
 4. goto —> cd JSON
 5. Host the json file in an local system’s IP address to view the app in Mobile
-6. Host in IP Address —> 
-7. Run command --> "json-server --host 192.1.1.1 db.json --port 6700"
+6. To Host in IP Address run below command
+7. "json-server --host 192.1.1.1 db.json --port 6700"
 	NOTE : Update the address in file ‘Actions/MovieActions.js’			  
 
 5. sudo expo start
